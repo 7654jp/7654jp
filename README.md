@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hello👋, I'm 7654jp.
 
-<!--
-**7654jp/7654jp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Japanese college(Kosen) student learning electronics and CE.  
+I'm currently working on making an 8-bit computer.  
+(This may change within 2~4 months)
 
-Here are some ideas to get you started:
+## My hobby
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Making an 8-bit computer from scratch, with KiCad
+- Creating a game with Unity
+
+I'm learning C, C++ and Rust, little by little.  
+I can use C# to the extent required for Unity.
+
+### A small note
+
+I'm just doing things whenever I want, and stop whenever I want.
+
+Q. How should I call you?
+
+A. If you are Japanese, then call me 'Narukoshi jp'.  
+If not, well, 'seven-six-five-four jp'.
